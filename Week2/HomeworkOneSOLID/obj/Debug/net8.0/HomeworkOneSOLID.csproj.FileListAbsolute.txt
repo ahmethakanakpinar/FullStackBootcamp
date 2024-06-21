@@ -1,0 +1,12 @@
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\bin\Debug\net8.0\HomeworkOneSOLID.deps.json
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\bin\Debug\net8.0\HomeworkOneSOLID.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\bin\Debug\net8.0\HomeworkOneSOLID.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.AssemblyInfo.cs
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.sourcelink.json
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\refint\HomeworkOneSOLID.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\HomeworkOneSOLID.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkOneSOLID\obj\Debug\net8.0\ref\HomeworkOneSOLID.dll

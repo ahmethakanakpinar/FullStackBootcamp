@@ -1,0 +1,12 @@
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\bin\Debug\net8.0\HomeworkTwoDelegateAndEvent.deps.json
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\bin\Debug\net8.0\HomeworkTwoDelegateAndEvent.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\bin\Debug\net8.0\HomeworkTwoDelegateAndEvent.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.AssemblyInfo.cs
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.sourcelink.json
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\refint\HomeworkTwoDelegateAndEvent.dll
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\HomeworkTwoDelegateAndEvent.pdb
+C:\Users\Ahmet\Documents\Visual Studio 2022\asp-net-core\FullStackBootcamp\Week2\HomeworkTwoDelegateAndEvent\obj\Debug\net8.0\ref\HomeworkTwoDelegateAndEvent.dll
